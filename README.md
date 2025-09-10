@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
-
+<img scr="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif "/>
 <h1 align="center">Hey Folks! 👋 I'm Somesh K H</h1>
 <h3 align="center">🚀 Passionate about building impactful web & apps and contributing to the open-source community. Currently exploring advanced concepts in Mobile & Web Development, and building real-world projects with modern technologies!</h3>
 
@@ -23,21 +22,14 @@
 - **Interests**: "love birdwatching and teaching tech to young minds!" 
 - **Currently Learning**: App Development, Web Development
 
-## 🏆 Highlights
-
-- 🥉 3rd Place – National Mathematics Day, 2022  
-- 🏆 1st Place – Technova (CSE Dept), 2023  
-- 🥇 1st Place – Fusion Techathon 3.0 – Open Innovation, 2024  
-- 💼 Internship – Research Intern @ IIIT Dharward 
-
 ## 📱 Featured Projects
 
 | Name   | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Doozy](https://github.com/Karthik1772/Doozy)** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
-| **[XoXo](https://github.com/Karthik1772/XoXo.git)** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
-| **[Xpenso](https://github.com/Karthik1772/Xpenso.git)** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
-| **[Formify](https://github.com/Karthik1772/Formify.git)** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
+| **[Doozy](https://github.com/SomeshKH/Doozy)** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
+| **[XoXo](https://github.com/SomeshKH/XoXo.git)** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
+| **[Xpenso](https://github.com/SomeshKH/Xpenso.git)** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
+| **[Formify](https://github.com/SomeshKH/Formify.git)** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
 
 ## 🧠 Tech & Tools
 
@@ -68,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1772&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1772&layout=compact&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeshKH&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshKH&layout=compact&theme=react" />
 </p>
 
 
