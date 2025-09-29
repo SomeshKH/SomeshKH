@@ -22,18 +22,7 @@
 - **Interests**: Leaving my mark in open-source, and leading the tech battlefield with modern innovations ⚡  
 - **Currently Learning**: App Development, Web Development  
 
----
 
-## 📱 Featured Projects  
-
-| Name   | Description | Tech Stack |
-|--------|-------------|------------|
-| **[Doozy](https://github.com/SomeshKH/Doozy)** | Doozy ("Do Easy") is a to-do application designed to simplify task management | Flutter |
-| **[XoXo](https://github.com/SomeshKH/XoXo)** | XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter | Flutter |
-| **[Xpenso](https://github.com/SomeshKH/Xpenso)** | Xpenso is a personalized expense tracker app designed to help users manage their daily finances | Flutter |
-| **[Formify](https://github.com/SomeshKH/Formify)** | Formify is a Flutter-based digital form app developed during an IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints | Flutter |
-
----
 
 ## 🧠 Tech & Tools  
 
@@ -55,10 +44,8 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://x.com/karthik__177"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="50" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/karthik-s-kashyap/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/nomadic_brahmana_/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" alt="Instagram"/></a>
-  <a href="https://karthik-s-kashyap.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" width="50" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/somesh-k-h-319721266/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/somesh.k._h"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" alt="Instagram"/></a>
 </p>
 
 ---
