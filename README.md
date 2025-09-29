@@ -3,7 +3,7 @@
 <h1 align="center">Hey Folks! 👋 I'm Somesh K H</h1>
 <h3 align="center">
   I build web & mobile apps that don’t just work—they dominate 💻📱⚡.<br/>
-  I turn ideas into powerful, real-world projects 🚀 while tearing into advanced Mobile & Web Development.<br/>
+  I turn ideas into powerful real-world projects 🚀 while tearing into advanced Mobile & Web Development.<br/>
   Open-source? I don’t just contribute, I leave my mark 🌍✍️.<br/>
   Modern tech isn’t the future for me—it’s the battlefield where I lead 🛠️🔥👑.
 </h3>
@@ -29,14 +29,11 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" alt="Dart"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" alt="Flutter"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" alt="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" alt="Figma"/>
-  <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" width="50" alt="Canva"/>
+  <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" width="40" alt="Canva"/>
 </p>
 
 ---
@@ -54,7 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeshKH&theme=react" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshKH&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
 ---
